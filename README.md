@@ -1,4 +1,4 @@
-# GitHub Profile Scraper API
+# 😺GitHub Profile Scraper API
 
 A lightweight, fast, and zero-config Cloudflare Worker that provides clean GitHub user profiles and repository data.
 
@@ -8,7 +8,7 @@ A lightweight, fast, and zero-config Cloudflare Worker that provides clean GitHu
 > **LIVE AT : https://githubinfo.iamaryanbhalsing.workers.dev/info?user=iamaryanbhalsing**
 ---
 
-## Features
+## 🧑‍💻Features
 ```
 - Fetch complete GitHub user profiles
 - Get recent repositories (sorted by last updated)
@@ -19,7 +19,7 @@ A lightweight, fast, and zero-config Cloudflare Worker that provides clean GitHu
 ```
 ---
 
-## Endpoints
+## 🔚Endpoints
 
 ### 1. Profile Information
 ```
@@ -28,7 +28,7 @@ GET` /info?user=<username>
 
 ---
 
-## Deployment
+## 🍃Deployment
 ```
 Copy the code from Github-info-api.js
 Go to Cloudflare Workers
