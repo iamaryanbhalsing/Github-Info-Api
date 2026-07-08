@@ -202,4 +202,3 @@ async function handleRequest(request) {
 addEventListener("fetch", function(event) {
   event.respondWith(handleRequest(event.request));
 });
-// src by @ftgamer2 🐱‍👤
