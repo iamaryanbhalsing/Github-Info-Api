@@ -8,7 +8,7 @@ A lightweight, fast, and zero-config Cloudflare Worker that provides clean GitHu
 > ♾️**LIVE AT : https://githubinfo.iamaryanbhalsing.workers.dev/info?user=iamaryanbhalsing**
 ---
 
-## 🧑‍💻Features
+## 🧑‍💻Features :
 ```
 - Fetch complete GitHub user profiles
 - Get recent repositories (sorted by last updated)
